@@ -1,0 +1,11 @@
+has to be named index which is not the case index is really just so web servers can recognize where
+
+the starting entry point of the web application is.
+
+So your apps do have to have an index for larger applications in this case will be just fine.
+
+First things first is we're going to do something called the declaration and say doc type each team.
+
+Now what this means is the browser needs to know what version of HTL we're using.
+
+OK in this case it just says to me it means we're using HVM L5.
