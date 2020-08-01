@@ -1,0 +1,106 @@
+/* body
+{
+    color:yellow;
+    background-color:#b3e8ff;
+    text-align: center;
+
+} */
+
+/* h1
+{
+    color:violet; */
+    /* text-align: center;  */
+    /* background-color: dodgerblue; */
+    /* border: 3px blue dashed; */
+    /* text-shadow: 3px 2px 3px black ;
+} */
+
+.container
+{
+    /* color: rgb(32, 32, 245); */
+    color:white;
+    background: linear-gradient(#80d4ff,#0000ff);
+    /* /* width: 300px;  */
+    height: 1000px; 
+    /* background-color: aqua; */
+    text-align: center;
+    margin:auto;
+    font-size: 35px;
+    text-shadow: 5px 5px 5px #0000ff;
+    /* box-shadow: 3px 3px 5px black; */
+    background-image: url(bg.jpg);
+    background-size: cover;
+}
+
+p
+{
+    background-image: url(m29KM7.jpg);
+    background-position: 50px;
+    align-items: stretch;
+}
+
+ul li
+{
+    text-align: left;
+    color: black;
+    font-size: 20px;
+}
+
+ul > li
+{
+    color:yellow;
+    text-shadow: 0px 0px 0px black;
+
+}
+
+.brdr
+{
+    height: 50px;
+    width: 50px;
+    margin: auto;
+    border: 12px dotted rgb(47, 130, 255);
+}
+
+
+/* h2
+{
+    color:rgb(1, 2, 255)
+} */
+
+/* #circle
+{
+    color:rgb(243, 91, 174);
+    font-size: 40px;
+
+} */
+
+h4,.eh4,#ech4
+{
+    background-color: #80d4ff;
+    color: black;
+    text-shadow: 3px 3px 3px #0000ff;
+    line-height: 1rem;
+    font-family:'Open Sans'
+}
+
+h1
+{
+  color: #0000ff;
+  background-color: black;  
+}
+
+body h3
+{
+    color:green;
+}
+
+html h3
+{
+    color:orange;
+}
+
+.class h3
+{
+    color: red;
+}
+
