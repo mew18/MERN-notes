@@ -1,0 +1,6 @@
+put in a head a head is typically not visible the things you put in it are not visible and that is typically
+
+where you load things like CSSA or external font files or things like that.
+
+tr is rows 
+td is colm in that tr 
