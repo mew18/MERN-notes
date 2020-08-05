@@ -1,0 +1,109 @@
+.jumbotron
+{
+    text-align: center;
+    background:none;
+}
+
+.sectionLight
+{
+    background-color: #ECEEEF;
+    padding: 2em;
+}
+
+.sectionDark
+{
+    background-color: #cccccc;
+    padding: 2rem;
+}
+
+.wrap
+{
+    margin-top: 20px;
+}
+
+button.btn-cool
+{     
+    background-color:#3f3e3b;
+    color: white;
+    display: block;
+    margin:auto;
+    border: none;
+    margin-bottom: 20px;
+}
+
+img.eng_bay
+{
+    width: 108%;
+}
+
+img.car_blueprint
+{
+    height: 108%;
+}
+
+h5.modal-title
+{
+    display: block;
+    margin: auto;
+}
+
+/* .modalFormWrapper
+{
+    padding: 2rem;
+} */
+
+img.modal-img
+{
+    display: block;
+    margin: auto;
+}
+
+img.img-centre
+{
+    display: block;
+    margin: auto;
+    padding: 2rem;
+}
+
+button.btn-centre
+{
+    background-color:#3f3e3b;
+    color: white;
+    display: block;
+    margin:auto;
+    border: none;
+    width: 50%;
+    /* margin-bottom: 20px; */
+}
+
+img.size
+{
+    width: 70%;
+    padding: 1rem;
+}
+
+.fa-facebook-square
+{
+    
+    color: #3B5998;
+}
+
+.fa-youtube
+{
+    color: #C32F10;
+}
+
+.fa-instagram
+{
+    color: white;
+}
+
+.fa
+{
+    margin: 10px;
+}
+
+.social-icon
+{
+    margin: auto;
+}
